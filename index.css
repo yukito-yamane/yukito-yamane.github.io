@@ -1,0 +1,29 @@
+.sikaku{
+
+  width: 200px;
+
+  height: 200px;
+
+  background-color: green;
+
+  margin: 0 auto;
+
+}
+
+
+
+
+
+.sikaku2{
+
+  width: 300px;
+
+  height: auto;
+
+  background-color: blue;
+
+  text-align: center;
+
+  margin: 0 auto;
+
+}
